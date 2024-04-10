@@ -13,4 +13,4 @@
 
 ## Bison Cow/Calf Image
 
-![Tatanka]("C:\Users\afrai\Pictures\BSK.jpg")
+![Tatanka]("https://www.americanhumane.org/app/uploads/2021/07/Bison-1024x576.png")
