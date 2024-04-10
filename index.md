@@ -1,5 +1,7 @@
 
 # Summer Rain's Earth Data Science Portfolio
+# Image of Me!
+![Buffalo Harvest](https://github.com/SummerAfraidofHawk/SummerAfraidofHawk.github.io/assets/166641847/86011932-2105-4322-9b2e-23ccd9348d29)
 
 * https://summerafraidofhawk.github.io/
 
