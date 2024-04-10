@@ -11,6 +11,6 @@
 
 <p> I would like to look at habitat suitability models for buffalo or I would like to compare vegitation density or diversity between buffalo pastures and cattle pastures. </p>
 
-## Prairie Sunset/Wild Flowers
+## Bison Cow/Calf Image
 
-![Summer 2023 Ordway Prairie Reserve]("C:\Users\afrai\Pictures\BSK.jpg")
+![Tatanka]("C:\Users\afrai\Pictures\BSK.jpg")
