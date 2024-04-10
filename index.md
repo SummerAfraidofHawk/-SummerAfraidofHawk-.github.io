@@ -10,3 +10,7 @@
 <p> Through the ESIIL Stars program, I am excited to learn about creating code and how Earth Data Science can be helpful in Indian Country. </p>
 
 <p> I would like to look at habitat suitability models for buffalo or I would like to compare vegitation density or diversity between buffalo pastures and cattle pastures. </p>
+
+## Prairie Sunset/Wild Flowers
+
+![Summer 2023 Ordway Prairie Reserve]("C:\Users\afrai\Pictures\BSK.jpg")
