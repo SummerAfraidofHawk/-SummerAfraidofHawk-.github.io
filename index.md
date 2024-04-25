@@ -8,7 +8,8 @@
 
 # Contact Information
 
-* https://summerafraidofhawk.github.io/
+* [Email](safraid19582@olc.edu)
+* [Github](https://summerafraidofhawk.github.io/)
 
 # Background
 
